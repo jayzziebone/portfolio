@@ -1,0 +1,19 @@
+.container-title{
+    background: url(../images/title-image-2.png) no-repeat center;
+    background-size: cover;
+}
+
+.bg-body-tertiary{
+    background-color: white;
+}
+
+.icons{
+    height: 70px;
+    width: 70px;
+    
+}
+
+.skill-text{
+    display: flex;
+    justify-content: center;
+}
