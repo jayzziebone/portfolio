@@ -17,3 +17,11 @@
     display: flex;
     justify-content: center;
 }
+
+#divider {
+    margin: 20px auto;
+    text-align: center;
+    height: 2px;
+    width: 30%;
+    background: linear-gradient(90deg, #ffffff, hsl(196, 97%, 77%), #ffffff);
+  }
